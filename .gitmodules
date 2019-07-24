@@ -1,0 +1,3 @@
+[submodule "mguattery-test2"]
+	path = mguattery-test2
+	url = git@github.com:mguattery/mguattery-test2.git
